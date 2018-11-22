@@ -1,4 +1,4 @@
-.bg-overlay {
+.bg-overlay-index {
     background: linear-gradient(rgba(39,55,70,1), rgba(0,0,0,0)), url("../assets/IMG_0922Lila Blumen.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -8,6 +8,57 @@
     padding-top: 50px;
 
 }
+.bg-overlay-praxis {
+    background: linear-gradient(rgba(39,55,70,1), rgba(0,0,0,0)), url("../assets/IMG_1646Dinnerparty.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height:700px;
+    padding-top: 50px;
+
+}
+.bg-overlay-team {
+    background: linear-gradient(rgba(39,55,70,1), rgba(0,0,0,0)), url("../assets/IMG_0237Blume 2_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height:700px;
+    padding-top: 50px;
+
+}
+.bg-overlay-lebenslauf {
+    background: linear-gradient(rgba(39,55,70,1), rgba(0,0,0,0)), url("../assets/IMG_2586Flower.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height:700px;
+    padding-top: 50px;
+
+}
+.bg-overlay-angebot {
+    background: linear-gradient(rgba(39,55,70,1), rgba(0,0,0,0)), url("../assets/IMG_0206Blume 1_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height:700px;
+    padding-top: 50px;
+
+}
+.bg-overlay-anfahrt {
+    background: linear-gradient(rgba(39,55,70,1), rgba(0,0,0,0)), url("../assets/IMG_2572Flower.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height:700px;
+    padding-top: 50px;
+
+}
+
 
 .anyclass {
   background: #ddd;
@@ -28,4 +79,23 @@
 body {
   overflow-x: hidden;
   padding-top: 50px;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+}
+h4 {
+  font-family: 'Roboto', sans-serif;
+  font-style: Italic;
+}
+.jumbotron h1 {
+  font-family: 'Roboto', sans-serif;
+  font-style: Italic;
+}
+.jumbotron h4 {
+  font-family: 'Roboto', sans-serif;
+  font-style: Italic;
 }
